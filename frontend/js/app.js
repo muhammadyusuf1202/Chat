@@ -1,5 +1,5 @@
-const API = 'http://localhost:5000/api';
-const SOCKET_URL = 'http://localhost:5000';
+const API = 'https://globalchat-i92vqhom.b4a.run/api';
+const SOCKET_URL = 'https://globalchat-i92vqhom.b4a.run';
 
 let socket = null;
 let currentUser = null;
